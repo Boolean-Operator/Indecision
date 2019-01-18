@@ -1,0 +1,14 @@
+.option {
+  border-bottom: 1px solid $lighter-blue;
+  display: flex;
+  justify-content: space-between;
+  padding: $lg-size $md-size;
+}
+
+.option__text {
+  color: white;
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 0;
+  word-break: break-all;
+}
